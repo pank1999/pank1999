@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @pank1999
+- 👋 Hi, I’m pankaj pandey
+- I have 2 year of expeience in web development.
 - 👀 I’m interested in web development and also in machine learning AI etc..
 - 🌱 I’m currently learning Node.js, REACT.JS, MONGODB, MONGOOSE. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me contact to pankajneeeraj541@gmail.com
+-  I also do coding practice in hackerrank codechef etc..
 -
 
 <!---
