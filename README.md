@@ -1,11 +1,19 @@
-- 👋 Hi, I’m pankaj pandey
-- I have 2 year of expeience in web development.
-- 👀 I’m interested in web development and also in machine learning AI etc..
-- 🌱 I’m currently learning Node.js, REACT.JS, MONGODB, MONGOOSE. 
+- 👋 Hi, I’m Pankaj Pandey currently working as Software Engineer Intern at @wisflux private limited.
+
+- Skills
+   - Javascript
+   - React
+   - Angular
+   - Node.js & Express.js
+   - Nest.js
+   - Mongoose
+   - Sequelize
+   - Mongodb
+   - Postgres
+- 🌱 I’m currently learning Angular, Electron and Docker. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact to pankajneeeraj541@gmail.com
--  I also do coding practice in hackerrank codechef etc..
--
+
 
 <!---
 pank1999/pank1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
