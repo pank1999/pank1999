@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pankaj Pandey currently working as Software Engineer Intern at @wisflux private limited.
 
-- Skills
+![pankaj-bg-1](https://user-images.githubusercontent.com/69034032/213911808-af41bc1f-c18a-41ab-a111-de265af5d50e.png)
+ # skills
    - Javascript
    - React
    - Angular
