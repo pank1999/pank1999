@@ -3,6 +3,7 @@
 
 # Stats
 ![github-stats](https://github-readme-stats.vercel.app/api?username=pank1999&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pank1999)](https://git.io/streak-stats)
 # skills
    - Javascript
    - React
