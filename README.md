@@ -4,6 +4,7 @@
 # Stats
 ![github-stats](https://github-readme-stats.vercel.app/api?username=pank1999&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pank1999)](https://git.io/streak-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pank1999)](https://github.com/anuraghazra/github-readme-stats) -->
 # skills
    - Javascript
    - React
