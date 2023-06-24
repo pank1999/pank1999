@@ -7,6 +7,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pank1999)](https://github.com/anuraghazra/github-readme-stats) -->
 # skills
    - Javascript
+   - Typescript
    - React
    - Angular
    - Node.js & Express.js
@@ -14,10 +15,7 @@
    - Mongoose
    - Sequelize
    - Mongodb
-   - Postgres
-- 🌱 I’m currently learning Angular, Electron and Docker. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact to pankajneeeraj541@gmail.com
+   - Postgres 
 
 <!---
 pank1999/pank1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
