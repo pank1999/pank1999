@@ -15,7 +15,8 @@
    - Mongoose
    - Sequelize
    - Mongodb
-   - Postgres 
+   - Postgres
+   - Docker
 
 <!---
 pank1999/pank1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
