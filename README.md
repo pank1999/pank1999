@@ -1,8 +1,6 @@
 
 ![pankaj-bg-1](https://user-images.githubusercontent.com/69034032/213911808-af41bc1f-c18a-41ab-a111-de265af5d50e.png)
 
-# Stats
-![github-stats](https://github-readme-stats.vercel.app/api?username=pank1999&show_icons=true&theme=radical)
 ## Streak status 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pank1999&theme=tokyonight)](https://git.io/streak-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pank1999)](https://github.com/anuraghazra/github-readme-stats) -->
