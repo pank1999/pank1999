@@ -6,6 +6,14 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pank1999)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pank1999&layout=compact)
 
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pank1999&theme=radical&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=F72585&text_color=FFFFFF" alt="Tarun's GitHub Trophies" />
+</p>
+
+
 ## Projects to checkout:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=E-Learning-App)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=Myshop-E-commerce-app)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,6 +32,8 @@
    - Mongodb
    - Postgres
    - Docker
+
+
 
 <!---
 pank1999/pank1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
