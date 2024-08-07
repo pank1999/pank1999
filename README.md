@@ -4,7 +4,7 @@
 ## Streak status 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pank1999&theme=tokyonight)](https://git.io/streak-stats)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pank1999&show_icons=true&theme=radical&bg_color=0D1117&title_color=F72585&text_color=FFFFFF&icon_color=4CC9F0" alt="Tarun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pank1999&show_icons=true&theme=radical&bg_color=0D1117&title_color=F72585&text_color=FFFFFF&icon_color=4CC9F0" alt="Pankaj's GitHub Stats" />
 </p>
 
 
@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pank1999&theme=radical&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=F72585&text_color=FFFFFF" alt="Tarun's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pank1999&theme=radical&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=F72585&text_color=FFFFFF" alt="Pankaj's GitHub Trophies" />
 </p>
 
-[![Pankaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pank1999&bg_color=0D1117&color=4CC9F0&line=F72585&point=FFFFFF&area=true&hide_border=true)](https://github.com/tarun2001jawla/github-readme-activity-graph)
+[![Pankaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pank1999&bg_color=0D1117&color=4CC9F0&line=F72585&point=FFFFFF&area=true&hide_border=true)](https://github.com/pank1999/github-readme-activity-graph)
 
 ## Projects to checkout:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=E-Learning-App)](https://github.com/anuraghazra/github-readme-stats)
