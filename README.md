@@ -19,15 +19,15 @@
 [![Pankaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pank1999&bg_color=0D1117&color=4CC9F0&line=F72585&point=FFFFFF&area=true&hide_border=true)](https://github.com/pank1999/github-readme-activity-graph)
 
 ## Projects to checkout:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=E-Learning-App)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=Myshop-E-commerce-app)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=Terraform-web-server)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=virtual-police-station)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=E-Learning-App)](https://github.com/pank1999/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=Myshop-E-commerce-app)](https://github.com/pank1999/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=Terraform-web-server)](https://github.com/pank1999/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=virtual-police-station)](https://github.com/pank1999/github-readme-stats)
 
 
 
 
 <!---
-pank1999/pank1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pank1/gith999/pank1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
