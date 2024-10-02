@@ -24,10 +24,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=Terraform-web-server)](https://github.com/pank1999/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pank1999&repo=virtual-police-station)](https://github.com/pank1999/github-readme-stats)
 
-
-
-
-<!---
-pank1/gith999/pank1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
